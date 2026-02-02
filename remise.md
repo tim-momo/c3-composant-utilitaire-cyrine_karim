@@ -2,11 +2,10 @@
 
 ## Lien vers Whiteboard complété
 
-[Lien vers Whiteboard complété](#ajouter le lien ici)
+https://cmontmorency365-my.sharepoint.com/:wb:/g/personal/2233414_cmontmorency_qc_ca/IQD16vJIxzjaSo-u7XdKVHblAUjnWr6WPosM90EJr8nVOsY?e=eWqLXV
 
 
 ## Équipe
 
-- Prénom Nom 1
-- Prénom Nom 2
-- ...
+- Cyrine Ghiat
+- Karim Fadi Elchoueiri
